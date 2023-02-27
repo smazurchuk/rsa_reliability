@@ -1,0 +1,9 @@
+# Exclude the neural RDMs
+/content/neural_rdms/*
+
+# Exclude larger excel files
+/content/excel_files/*.xlsx
+!/content/excel_files/*small.xlsx
+
+# Exclute database file
+jupyterlite.doit
