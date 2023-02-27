@@ -12,4 +12,6 @@ https://osf.io/wsrfh/?view_only=4c7295fa574e474689b983dfceadd6b6
 
 The live jupyter notebook is built using jupyter-lite and the command:
 
-> jupyter lite build --contents content --force --output-dir docs
+```
+jupyter lite build --contents content --force --output-dir docs
+```
