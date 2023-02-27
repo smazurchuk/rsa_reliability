@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-02-27T22:32:29.026718Z",
+      "format": null,
+      "last_modified": "2023-02-27T01:20:25Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Study_1_ALE_small.xlsx",
+      "path": "excel_files/Study_1_ALE_small.xlsx",
+      "size": 227447,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-02-27T22:32:29.079718Z",
+      "format": null,
+      "last_modified": "2023-02-27T01:20:00Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Study_2_ALE_small.xlsx",
+      "path": "excel_files/Study_2_ALE_small.xlsx",
+      "size": 206114,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-02-27T22:32:29.059725Z",
+  "format": "json",
+  "last_modified": "2023-02-27T22:32:29.059725Z",
+  "mimetype": null,
+  "name": "excel_files",
+  "path": "excel_files",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
