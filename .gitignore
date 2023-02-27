@@ -6,4 +6,4 @@
 !/content/excel_files/*small.xlsx
 
 # Exclute database file
-jupyterlite.doit.db
+.jupyterlite.doit.db
